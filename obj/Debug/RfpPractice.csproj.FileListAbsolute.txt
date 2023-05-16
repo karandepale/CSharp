@@ -1,0 +1,8 @@
+C:\Users\Karan Depale\source\repos\RfpPractice\RfpPractice\obj\Debug\RfpPractice.csproj.AssemblyReference.cache
+C:\Users\Karan Depale\source\repos\RfpPractice\RfpPractice\obj\Debug\RfpPractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\Karan Depale\source\repos\RfpPractice\RfpPractice\obj\Debug\RfpPractice.csproj.CoreCompileInputs.cache
+C:\Users\Karan Depale\source\repos\RfpPractice\RfpPractice\bin\Debug\RfpPractice.exe.config
+C:\Users\Karan Depale\source\repos\RfpPractice\RfpPractice\bin\Debug\RfpPractice.exe
+C:\Users\Karan Depale\source\repos\RfpPractice\RfpPractice\bin\Debug\RfpPractice.pdb
+C:\Users\Karan Depale\source\repos\RfpPractice\RfpPractice\obj\Debug\RfpPractice.exe
+C:\Users\Karan Depale\source\repos\RfpPractice\RfpPractice\obj\Debug\RfpPractice.pdb
